@@ -7,5 +7,7 @@ console.log(login);
 const footer="footer added in our website";
 console.og(footer);
 
+console.log("leatest update");
+
 
 
